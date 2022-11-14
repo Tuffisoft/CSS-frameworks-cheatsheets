@@ -1,0 +1,61 @@
+.bulma-title {
+    text-align: center;
+    margin: 10px;
+}
+
+.bulma-color-container {
+    border:1px solid black;
+    margin: 50px;
+    text-align: center;
+    padding: 10px;
+}
+
+table, th, td {
+    border:1px solid black;
+    margin: 10px;
+    padding: 10px;
+}
+
+.td-white {
+    color: white;
+}
+
+.td-black {
+    color: hsl(0, 0%, 4%);
+}
+
+.td-light {
+    color: hsl(0, 0%, 96%);
+}
+
+.td-dark {
+    color: hsl(0, 0%, 21%);
+}
+
+.td-primary {
+    color: hsl(171, 100%, 41%);
+}
+
+.td-link {
+    color: hsl(217, 71%, 53%);
+}
+
+.td-info {
+    color: hsl(204, 86%, 53%);
+}
+
+.td-success {
+    color: hsl(141, 71%, 48%);
+}
+
+.td-warning {
+    color: hsl(48, 100%, 67%);
+}
+
+.td-danger {
+    color: hsl(348, 100%, 61%);
+}
+
+.td-bold {
+    color: black;
+}

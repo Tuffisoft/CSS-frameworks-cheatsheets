@@ -1,0 +1,35 @@
+* {
+    background: #E8F4F9;
+}
+.chakra-h1 {
+    font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 700;
+    color: #2e90ff;
+    text-align: center;
+    margin-top: 10px;
+}
+.container-md {
+    background: #2e90ff;
+    color: #fff;
+    text-align: center;
+  }
+.chakra-h2 {
+    color: #47A9DA;
+    text-align: center;
+    font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    margin-top: 5px;
+}
+.chakra-h3 {
+    text-align: center;
+    font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    margin-top: 5px;
+    color: #007AB8;
+}
+p {
+    font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+    width: 900px;
+}

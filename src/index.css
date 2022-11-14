@@ -13,4 +13,28 @@
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
 }
+*{
+  margin:0px;
+}
+
+.home-body{
+  max-width:80%;
+  text-align:center;
+  margin:auto;
+}
+
+.home-body h1{
+  font-size:3em;
+  margin:50px;
+}
+
+h1 {
+  color: var(--color-primary);
+}
+
+.header-image {
+  width: 100%; 
+  object-fit: cover;
+  height: 500px;
+}
 

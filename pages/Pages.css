@@ -1,5 +1,5 @@
 .pages-header{
-    background-color:"";
+    background-color:"var(--color-primary)";
     margin: "";
     padding: "";
 }

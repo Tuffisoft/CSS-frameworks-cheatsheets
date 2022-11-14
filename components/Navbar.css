@@ -1,0 +1,39 @@
+.navbar a{
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 1.2em;
+    text-decoration:none;
+    color: #f6f6f6;
+    padding:10px;
+    margin:10px;
+    margin-top:25px;
+    background-color: var(--color-secondary);
+    height:10px;
+
+
+}
+.navbar a:hover {
+  color: var(--color-primary);
+}
+
+.nav-links {
+    text-decoration:none;
+    cursor: pointer;
+    display:flex;
+    justify-content: space-evenly;
+    background-color: var(--color-secondary);
+
+}
+
+.navbar {
+    background-color: var(--color-secondary);
+    margin:0px;
+    height:100px;
+}
+
+.navbar img {
+    width: 100px;
+    height: 100px; 
+    margin-top:-35px;
+    margin-left:-50px;
+}
