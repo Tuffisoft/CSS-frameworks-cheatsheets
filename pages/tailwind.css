@@ -1,0 +1,21 @@
+h1 {
+  color: var(--color-primary);
+}
+
+h2 {
+  color: var(--color-secondary);
+}
+
+.pros, .cons {
+  list-style: none;
+}
+
+.grey-box {
+  width: 400px;
+  background-color: lightgrey;
+  padding: 15px;
+}
+
+a {
+  color: var(--color-primary);
+}
