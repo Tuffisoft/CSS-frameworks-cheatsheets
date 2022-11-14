@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import Bulma from '../pages/Bulma.jsx';
-import Tailwind from '../pages/Tailwind.jsx';
+import Tailwind from '../pages/tailwind.jsx';
 import Ant from '../pages/Ant.jsx';
 import Chakra from '../pages/Chakra.jsx';
 
